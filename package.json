@@ -1,0 +1,13 @@
+{
+  "name": "7yanodeproject1",
+  "version": "1.0.0",
+  "description": "A test repository for control and management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
